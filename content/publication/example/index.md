@@ -37,8 +37,8 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: https://www.pnas.org/content/pnas/117/22/12411/F1.large.jpg?width=800&height=600&carousel=1
-date: 2013-07-01T00:00:00.000Z
+  filename: ""
+date: 2020-06-02T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
