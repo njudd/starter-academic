@@ -15,10 +15,42 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Judd
-  - Sauce
-  - ...
-  - Klingberg
+  - Nicholas Judd
+  - Bruno Sauce
+  - John Wiedenhoeft
+  - Jeshua Tromp
+  - Bader Chaarani
+  - Alexander Schliep
+  - Betteke van Noort
+  - Jani Penttilä
+  - Yvonne Grimmer
+  - Corinna Insensee
+  - Andreas Becker
+  - Tobias Banaschewski
+  - Arun L. W. Bokde
+  - Erin Burke Quinlan
+  - Sylvane Desrivières
+  - Herta Flor
+  - Antoine Grigis
+  - Penny Gowland
+  - Andreas Heinz
+  - Bernd Ittermann
+  - Jean-Luc Martinot
+  - Marie-Laure Paillère Martinot
+  - Eric Artiges
+  - Frauke Nees
+  - Dimitri Papadopoulos Orfanos
+  - Tomáš Paus
+  - Luise Poustka
+  - Sarah Hohmann
+  - Sabina Millenet
+  - Juliane H. Fröhner
+  - Michael N. Smolka
+  - Henrik Walter
+  - Robert Whelan
+  - Gunter Schumann
+  - Hugh Garavan
+  - and Torkel Klingberg
 author_notes: []
 publication: In *PNAS*
 summary: ""
