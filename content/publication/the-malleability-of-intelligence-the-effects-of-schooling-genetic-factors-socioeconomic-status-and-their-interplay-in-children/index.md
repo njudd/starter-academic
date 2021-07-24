@@ -24,7 +24,7 @@ abstract: Schooling, socioeconomic status (SES), and genetics all play large
   tested. While schooling had strong main effects on intelligence, it did not
   lessen, nor widen the impact of these preexisting SES or genetic factors.
 draft: true
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
