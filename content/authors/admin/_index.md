@@ -28,7 +28,7 @@ organizations:
     url: https://www.ki.se/en
 education:
   courses:
-    - course: Doctoral Candidate in Cognitive Neuroscience
+    - course: Doctoral Candidate in Neuroscience
       institution: Karolinska Institute
       year: ""
     - course: M.Sc. Brain and Cognitive Science
