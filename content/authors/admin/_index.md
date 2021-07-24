@@ -4,9 +4,9 @@ role: Scientific Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include data science, neuroimaging and cognition.
 interests:
+  - Neuroscience
   - Causal Inference
   - Bayesian Statistics
-  - Neuroscience
 social:
   - icon: envelope
     icon_pack: fas
