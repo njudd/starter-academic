@@ -1,63 +1,45 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+abstract: "Abstract: Spatial and mathematical abilities are strongly associated.
+  Here we analyzed data from 17,648 children, aged 6-8 years, who performed 7
+  weeks of mathematical training, together with randomly assigned, spatial
+  cognitive training with tasks demanding more of spatial manipulation (mental
+  rotation or tangram), maintenance of spatial information (a visuo-spatial
+  working memory task) or spatial, non-verbal reasoning. We found that what type
+  of cognitive training children performed had a significant impact on
+  mathematical learning, with training of visuo-spatial working memory and
+  reasoning being the most effective. This large, community-based study shows
+  that spatial cognitive training can result in transfer to academic abilities
+  and that reasoning ability and maintenance of spatial information is relevant
+  for math learning in young children."
+slides: ""
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: "Nicholas Judd: Training Spatial Cognition Enhances Mathematical Learning"
+location: Centre for Educational Neuroscience Seminar
+date: 2020-11-05T14:00:00.000Z
+date_end: 2020-11-06T16:00:00.000Z
+all_day: false
+event: Centre for Educational Neuroscience Seminar
+event_url: https://www.youtube.com/watch?v=hSxlmVWxZnA
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+links: []
+publishDate: 2017-01-01T00:00:00Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- example
+  - example
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  focal_point: Right
+url_code: ""
 ---
 
 {{% callout note %}}
