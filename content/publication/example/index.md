@@ -62,7 +62,7 @@ url_video: ""
 title: Cognitive and brain development is independently influenced by
   socioeconomic status and polygenic scores for educational attainment
 doi: https://doi.org/10.1073/pnas.2001228117
-featured: true
+featured: false
 tags: []
 projects: []
 image:
