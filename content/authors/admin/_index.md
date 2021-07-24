@@ -1,7 +1,7 @@
 ---
 title: Nicholas Judd
 role: Scientific Researcher
-avatar_filename: 67574619_10219920940477606_4671160419144957952_n.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include data science, neuroimaging and cognition.
 interests:
   - Artificial Intelligence
